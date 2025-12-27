@@ -1,6 +1,9 @@
 # somis_ranks
 dependency
 - oxmysql
+
+
+
 a fivem fully server authoritative kd leaderboard (and the only one) with ranks k/d counts and global placements! 
 
 
